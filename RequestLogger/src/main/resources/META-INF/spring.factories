@@ -1,0 +1,5 @@
+org.springframework.boot.env.EnvironmentPostProcessor=\
+  ru.sergeysemenov.request_logger.init.RequestLoggerEnvPostProcessor
+
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  ru.sergeysemenov.request_logger.config.LoggingInterceptorAutoConfiguration

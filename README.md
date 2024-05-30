@@ -6,7 +6,7 @@
 
 ## RequestLogger
 Этот модуль собственно и является тем самым  SpringBoot starter, который позволяет логировать HTTP request направляемые в сервис, а также response нашего сервиса.
-Процесс логирования реализован с помощью `Interceptor`. Класс `LoggingInterceptor` имплементирует `HandlerInterceptor' и реализует соответствующие методы `preHandle, postHandle и afterCompletion`
+Процесс логирования реализован с помощью `Interceptor`. Класс `LoggingInterceptor` имплементирует `HandlerInterceptor` и реализует соответствующие методы `preHandle, postHandle и afterCompletion`
 Логируются:
 1. URL запроса
 2. Метод запроса

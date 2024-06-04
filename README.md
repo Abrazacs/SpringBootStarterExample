@@ -39,7 +39,7 @@ request-logger:
 ![image](https://github.com/Abrazacs/SpringBootStarterExample/assets/84628800/3b199883-cd16-4aff-af5e-b652d06c5582)
 
 ## App
-Приложение создана для удобства проверки работспособности RequestLogger.
+Приложение создано для удобства проверки работспособности RequestLogger.
 
 Возвращает случайное число по запросу
 ```
